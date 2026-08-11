@@ -2,21 +2,15 @@
 main:
   - title: "Home"
     url: /
-
   - title: "Research"
     url: /research/
-
   - title: "Publications"
     url: /publications/
-
   - title: "People"
     url: /people/
-
   - title: "Teaching"
     url: /teaching/
-
   - title: "News"
     url: /news/
-
   - title: "CV"
     url: /cv/

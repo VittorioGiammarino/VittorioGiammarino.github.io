@@ -7,45 +7,98 @@ redirect_from:
   - /about.html
 ---
 
-# Vittorio Giammarino
-
-I am an Assistant Professor in the **Department of Industrial and Management Systems Engineering** at the **University of South Florida**, where I lead the **Learning-enabled Autonomy (LEA) Lab**.
+I am an Assistant Professor in the [**Department of Industrial and Management Systems Engineering**](https://www.usf.edu/engineering/imse/) at the [**University of South Florida**](https://www.usf.edu/), where I lead the **Learning-enabled Autonomy (LEA) Lab**.
 
 Prior to joining USF, I was a Postdoctoral Research Associate in the Department of Computer Science at Purdue University. I received my Ph.D. in Systems Engineering from Boston University, my M.Sc. in Systems and Control from Delft University of Technology (TU Delft), and my B.Sc. in Automation Engineering through a joint program between Tongji University and the University of Bologna.
 
-My research lies at the intersection of **reinforcement learning, control theory, robotics, and formal methods**. I am particularly interested in developing learning-enabled autonomous systems that are **data-efficient, safe, and grounded in physical and control-theoretic principles**.
+My research lies at the intersection of **Reinforcement Learning, Control Theory, Deep Learning, Robotics, and Formal Methods**. I am particularly interested in developing learning-enabled autonomous systems that are **data-efficient, safe, and grounded in physical and control-theoretic principles**.
+
+---
+
+<div style="text-align:center; margin: 1.5rem 0 1rem 0;">
+  <img src="/images/lea-logo.png" alt="Learning-enabled Autonomy Lab logo" style="max-width:330px; width:75%; height:auto;">
+</div>
 
 ## Learning-enabled Autonomy Lab
 
-The **LEA Lab** develops learning-enabled autonomous systems at the intersection of machine learning, control, and robotics. Our research focuses on enabling autonomous agents to learn efficiently, reason about complex objectives, and operate safely in the physical world.
+The **LEA Lab** develops learning-enabled autonomous systems at the intersection of **machine learning, control theory, optimization, and robotics**. Our goal is to enable autonomous agents to **learn efficiently, reason about complex objectives, and operate safely and effectively in the physical world**.
 
 [**Learn more about our research →**](/research/) &nbsp;&nbsp; [**Meet the lab →**](/people/)
 
-## Research
-
-### Learning Efficiently
-We develop reinforcement learning methods that improve data efficiency by exploiting structure in goals, dynamics, and physical systems. Our interests include goal-conditioned reinforcement learning, offline reinforcement learning, hierarchical learning, and physics-informed value learning.
-
-### Acting Safely
-We study how learning-based autonomous systems can make decisions while respecting safety constraints. Our work connects reinforcement learning with reachability analysis, control-theoretic safety, model predictive control, and related tools.
-
-### Reasoning for Autonomy
-We develop methods that allow autonomous agents to reason about long-horizon and structured objectives. This includes formal methods, temporal logic, hierarchical decision making, and learning for embodied autonomous systems.
-
-Our work spans applications in **robotic manipulation, autonomous navigation, embodied AI, and intelligent transportation systems**.
-
 ## Selected Publications
 
-A selection of representative publications will be highlighted here. See the full [Publications](/publications/) page or my [Google Scholar](https://scholar.google.com/citations?user=ezcss6YAAAAJ) profile.
+### Physics-informed Reinforcement Learning
+
+- **Goal Reaching with Eikonal-Constrained Hierarchical Quasimetric Reinforcement Learning**  
+  Vittorio Giammarino and Ahmed H. Qureshi. *ICLR 2026*.  
+  [Paper](https://arxiv.org/abs/2512.12046)
+
+- **Physics-informed Value Learner for Offline Goal-Conditioned Reinforcement Learning**  
+  Vittorio Giammarino, Ruiqi Ni, and Ahmed H. Qureshi. *NeurIPS 2025*.  
+  [Paper](https://arxiv.org/abs/2509.06782)
+
+- **Physics-informed Goal-Conditioned Reinforcement Learning under Hybrid Contact Dynamics**  
+  Vittorio Giammarino, Anastasios Manganaris, and Ahmed H. Qureshi. *Preprint, 2026*.  
+  [Paper](https://arxiv.org/abs/2605.30503)
+
+### Formal Methods for Policy Learning
+
+- **Automaton Constrained Q-Learning**  
+  Anastasios Manganaris, Vittorio Giammarino, and Ahmed H. Qureshi. *NeurIPS 2025*.  
+  [Paper](https://arxiv.org/abs/2510.05061)
+
+- **Formal Methods in Robot Policy Learning and Verification: A Survey on Current Techniques and Future Directions**  
+  Anastasios Manganaris, Vittorio Giammarino, Ahmed H. Qureshi, and Suresh Jagannathan. *Transactions on Machine Learning Research, 2026*.  
+  [Paper](https://arxiv.org/abs/2602.06971)
+
+### Imitation Learning from Videos
+
+- **Beyond Domain Randomization: Event-Inspired Perception for Visually Robust Adversarial Imitation from Videos**  
+  Andrea Ramazzina, Vittorio Giammarino, Matteo El-Hariry, and Mario Bijelic. *ICRA 2026*.  
+  [Paper](https://arxiv.org/abs/2505.18899)
+
+- **Visually Robust Adversarial Imitation Learning from Videos with Contrastive Learning**  
+  Vittorio Giammarino, James Queeney, and Ioannis Ch. Paschalidis. *ICRA 2025*.  
+  [Paper](https://arxiv.org/abs/2407.12792)
+
+- **Adversarial Imitation Learning from Visual Observations using Latent Information**  
+  Vittorio Giammarino, James Queeney, and Ioannis Ch. Paschalidis. *Transactions on Machine Learning Research, 2024*.  
+  [Paper](https://arxiv.org/abs/2309.17371)
+
+### Learning and Control for Transportation
+
+- **Reinforcement Learning-based Receding Horizon Control using Adaptive Control Barrier Functions for Safety-Critical Systems**  
+  Ehsan Sabouni, H. M. Sabbir Ahmad, Vittorio Giammarino, Christos G. Cassandras, Ioannis Ch. Paschalidis, and Wenchao Li. *CDC 2024*.  
+  [Paper](https://arxiv.org/abs/2403.17338)
+
+- **Traffic Flow on a Ring With a Single Autonomous Vehicle: An Interconnected Stability Perspective**  
+  Vittorio Giammarino, Simone Baldi, Paolo Frasca, and Maria Laura Delle Monache. *IEEE Transactions on Intelligent Transportation Systems, 2021*.
+
+- **On a Weaker Notion of Ring Stability for Mixed Traffic with Human-Driven and Autonomous Vehicles**  
+  Vittorio Giammarino, Maolong Lv, Simone Baldi, Paolo Frasca, and Maria Laura Delle Monache. *CDC 2019*.
+
+[**View all publications →**](/publications/)
 
 ## News
 
-**August 2026** — I joined the University of South Florida as an Assistant Professor and launched the Learning-enabled Autonomy (LEA) Lab.
+**August 2026** — I joined the University of South Florida as an Assistant Professor and launched the **Learning-enabled Autonomy (LEA) Lab**.
+
+**May 2026** — Our work on event-inspired perception for visually robust imitation learning from videos will be presented at **ICRA 2026**.
+
+**April 2026** — Our workshop, **Hybrid Architectures for Embodied Autonomy: Bridging Learning, Planning, and Control**, was accepted to **IROS 2026**.
+
+**April 2026** — Our work on Eikonal-constrained hierarchical quasimetric reinforcement learning was presented at **ICLR 2026**.
 
 [**More news →**](/news/)
 
 ## Join the LEA Lab
 
-We are interested in working with motivated students who want to develop principled learning methods for autonomous systems, particularly at the intersection of reinforcement learning, robotics, control, and formal methods.
+### Prospective Ph.D. Students
 
-Prospective students can learn more on the [People](/people/) page or contact me at **vittoriog@usf.edu**.
+I am recruiting **2–3 Ph.D. students** to join the LEA Lab, with anticipated start dates between **Spring and Fall 2027**. Students with experience, curiosity, and motivation to work at the intersection of **Reinforcement Learning, Control Theory, Optimization, and Robotics** are strongly encouraged to apply.
+
+### Current USF Students
+
+If you are a graduate or undergraduate student already at USF and are interested in working with me, feel free to reach out. I am particularly interested in working with students who are excited about **high-risk, high-reward projects** and motivated to pursue **innovative and exploratory research**.
+
+For inquiries, contact me at **vittoriog@usf.edu**.

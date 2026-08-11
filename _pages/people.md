@@ -6,28 +6,34 @@ author_profile: true
 
 # Learning-enabled Autonomy (LEA) Lab
 
+The LEA Lab is part of the [Department of Industrial and Management Systems Engineering](https://www.usf.edu/engineering/imse/) at the [University of South Florida](https://www.usf.edu/).
+
 ## Principal Investigator
 
 ### Vittorio Giammarino
+
 Assistant Professor  
 Department of Industrial and Management Systems Engineering  
 University of South Florida
 
-Research interests: reinforcement learning, control theory, robotics, formal methods, and learning-enabled autonomy.
+Research interests: **Reinforcement Learning, Control Theory, Deep Learning, Robotics, Formal Methods, and learning-enabled autonomy**.
 
 ## Students
 
 The LEA Lab is currently being established at the University of South Florida. Student profiles will be added here as the group grows.
 
-## Join Us
+## Join the LEA Lab
 
-We are interested in motivated **Ph.D., M.S., and undergraduate students** who want to work on learning-enabled autonomous systems.
+### Prospective Ph.D. Students
 
-Research areas include:
-- Reinforcement learning and goal-conditioned RL
-- Robot learning and embodied AI
-- Safe learning and control
-- Physics-informed machine learning
-- Formal methods for autonomy
+I am recruiting **2–3 Ph.D. students** to join the LEA Lab, with anticipated start dates between **Spring and Fall 2027**.
 
-If you are interested in joining the lab, email **vittoriog@usf.edu** with a short description of your research interests and your CV or résumé.
+Students with experience, curiosity, and motivation to work at the intersection of **Reinforcement Learning, Control Theory, Optimization, and Robotics** are strongly encouraged to apply.
+
+### Current USF Students
+
+Graduate and undergraduate students already at USF who are interested in working with me are welcome to reach out.
+
+I am particularly interested in working with students who are excited about **high-risk, high-reward projects** and motivated to pursue **innovative and exploratory research**.
+
+For inquiries, contact **vittoriog@usf.edu**.

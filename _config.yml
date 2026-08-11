@@ -12,8 +12,8 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Vittorio Giammarino"
 title_separator          : "-"
 name                     : &name "Vittorio Giammarino"
-description              : &description "Assistant Professor at the University of South Florida"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://VittorioGiammarino.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "Vittorio Giammarino | Assistant Professor at USF | Learning-enabled Autonomy Lab"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : "https://vittoriogiammarino.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "VittorioGiammarino/VittorioGiammarino.github.io"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Vittorio Giammarino"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor | Learning-enabled Autonomy"
+  bio              : "Assistant Professor | Director, LEA Lab"
   location         : "Tampa, FL"
   employer         : "University of South Florida"
   uri              : # URL

@@ -4,51 +4,27 @@ title: "Research"
 author_profile: true
 ---
 
-My research lies at the intersection of **reinforcement learning, control theory, robotics, and formal methods**. The broad goal of the LEA Lab is to develop learning-enabled autonomous systems that are data-efficient, safe, and grounded in physical and control-theoretic principles.
+Our research lies at the intersection of **Reinforcement Learning, Control Theory, Deep Learning, Robotics, and Formal Methods**.
+
+The **Learning-enabled Autonomy (LEA) Lab** develops learning-enabled autonomous systems at the intersection of **machine learning, control theory, optimization, and robotics**. Our goal is to enable autonomous agents to **learn efficiently, reason about complex objectives, and operate safely and effectively in the physical world**.
 
 ## Learning Efficiently
 
-Modern autonomous systems often require large amounts of interaction data. We study how structure from control, geometry, dynamics, and task representations can be incorporated into reinforcement learning to improve data efficiency and generalization.
+We develop reinforcement learning methods that exploit structure in goals, dynamics, geometry, and physical systems to improve data efficiency and generalization. Our interests include goal-conditioned reinforcement learning, offline reinforcement learning, hierarchical learning, physics-informed learning, and representation learning for control.
 
-Topics include:
-- Goal-conditioned reinforcement learning
-- Offline reinforcement learning
-- Hierarchical reinforcement learning
-- Physics-informed value learning
-- Representation learning for control
+## Acting Safely and Effectively
 
-## Acting Safely
+We study how learning-enabled systems can act reliably in the physical world while respecting safety constraints and maintaining strong task performance. Our work connects reinforcement learning with reachability analysis, optimal control, model predictive control, control barrier functions, and optimization.
 
-Learning-based systems must operate reliably in the physical world, where unsafe actions can have real consequences. We study ways of combining reinforcement learning with tools from control and reachability theory.
+## Reasoning about Complex Objectives
 
-Topics include:
-- Safe reinforcement learning
-- Hamilton-Jacobi reachability
-- Safety critics and constrained policy improvement
-- Model predictive control and reinforcement learning
-- Control barrier functions
-- Safety for robot learning and embodied AI
+We investigate methods that allow autonomous agents to reason about structured, long-horizon objectives. This includes formal methods, temporal logic, automata, hierarchical decision making, and learning-based approaches for embodied autonomous systems.
 
-## Reasoning for Autonomy
+## Application Areas
 
-Autonomous agents increasingly need to solve long-horizon tasks expressed through high-level objectives. We study ways of connecting learning with structured reasoning and formal specifications.
-
-Topics include:
-- Formal methods for reinforcement learning
-- Temporal logic and automata
-- Hierarchical decision making
-- Goal representations
-- Vision-language-action models
-- Embodied autonomy
-
-## Applications
-
-We are particularly interested in:
 - Robotic manipulation
 - Autonomous navigation
 - Embodied AI
 - Intelligent transportation systems
 
-## Publications
-
-See our [Publications](/publications/) page for related work.
+See [Publications](/publications/) for representative work.
