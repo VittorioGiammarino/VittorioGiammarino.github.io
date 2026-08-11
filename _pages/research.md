@@ -4,8 +4,6 @@ title: "Research"
 author_profile: true
 ---
 
-Our research lies at the intersection of **Reinforcement Learning, Control Theory, Deep Learning, Robotics, and Formal Methods**.
-
 The **Learning-enabled Autonomy (LEA) Lab** develops learning-enabled autonomous systems at the intersection of **machine learning, control theory, optimization, and robotics**. Our goal is to enable autonomous agents to **learn efficiently, reason about complex objectives, and operate safely and effectively in the physical world**.
 
 ## Learning Efficiently
