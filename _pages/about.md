@@ -24,10 +24,6 @@ The **LEA Lab** develops learning-enabled autonomous systems at the intersection
 
 ### Physics-informed Reinforcement Learning
 
-- **Physics-informed Goal-Conditioned Reinforcement Learning under Hybrid Contact Dynamics**  
-  Vittorio Giammarino, Anastasios Manganaris, and Ahmed H. Qureshi. *Preprint, 2026*.  
-  [Paper](https://arxiv.org/abs/2605.30503)
-
 - **Goal Reaching with Eikonal-Constrained Hierarchical Quasimetric Reinforcement Learning**  
   Vittorio Giammarino and Ahmed H. Qureshi. *ICLR 2026*.  
   [Paper](https://arxiv.org/abs/2512.12046)
@@ -42,19 +38,7 @@ The **LEA Lab** develops learning-enabled autonomous systems at the intersection
   Anastasios Manganaris, Vittorio Giammarino, and Ahmed H. Qureshi. *NeurIPS 2025*.  
   [Paper](https://arxiv.org/abs/2510.05061)
 
-- **Formal Methods in Robot Policy Learning and Verification: A Survey on Current Techniques and Future Directions**  
-  Anastasios Manganaris, Vittorio Giammarino, Ahmed H. Qureshi, and Suresh Jagannathan. *Transactions on Machine Learning Research, 2026*.  
-  [Paper](https://arxiv.org/abs/2602.06971)
-
-### Visual Imitation and Inverse RL
-
-- **Beyond Domain Randomization: Event-Inspired Perception for Visually Robust Adversarial Imitation from Videos**  
-  Andrea Ramazzina, Vittorio Giammarino, Matteo El-Hariry, and Mario Bijelic. *ICRA 2026*.  
-  [Paper](https://arxiv.org/abs/2505.18899)
-
-- **Visually Robust Adversarial Imitation Learning from Videos with Contrastive Learning**  
-  Vittorio Giammarino, James Queeney, and Ioannis Ch. Paschalidis. *ICRA 2025*.  
-  [Paper](https://arxiv.org/abs/2407.12792)
+### Visual Imitation 
 
 - **Adversarial Imitation Learning from Visual Observations using Latent Information**  
   Vittorio Giammarino, James Queeney, and Ioannis Ch. Paschalidis. *Transactions on Machine Learning Research, 2024*.  
@@ -66,23 +50,19 @@ The **LEA Lab** develops learning-enabled autonomous systems at the intersection
   Ehsan Sabouni, H. M. Sabbir Ahmad, Vittorio Giammarino, Christos G. Cassandras, Ioannis Ch. Paschalidis, and Wenchao Li. *CDC 2024*.  
   [Paper](https://arxiv.org/abs/2403.17338)
 
-- **Traffic Flow on a Ring With a Single Autonomous Vehicle: An Interconnected Stability Perspective**  
-  Vittorio Giammarino, Simone Baldi, Paolo Frasca, and Maria Laura Delle Monache. *IEEE Transactions on Intelligent Transportation Systems, 2021*.
 
-- **On a Weaker Notion of Ring Stability for Mixed Traffic with Human-Driven and Autonomous Vehicles**  
-  Vittorio Giammarino, Maolong Lv, Simone Baldi, Paolo Frasca, and Maria Laura Delle Monache. *CDC 2019*.
-
-[**View all publications →**](/publications/)
+[**More selected publications →**](/publications/)  
+[**Complete publication list on Google Scholar →**](https://scholar.google.com/citations?user=ezcss6YAAAAJ)
 
 ## News
 
 **August 2026** — I joined the University of South Florida as an Assistant Professor and launched the **Learning-enabled Autonomy (LEA) Lab**.
 
-**May 2026** — Our work on [event-inspired perception for visually robust imitation learning from videos](https://arxiv.org/abs/2505.18899) was presented at **ICRA 2026**.
+**May 2026** — Our work on event-inspired perception for visually robust imitation learning from videos was presented at **ICRA 2026**.
 
 **April 2026** — Our workshop, [**Hybrid Architectures for Embodied Autonomy: Bridging Learning, Planning, and Control**](https://sites.google.com/bu.edu/hybridarchforautonomy), was accepted to **IROS 2026**.
 
-**April 2026** — Our work on [Eikonal-constrained hierarchical quasimetric reinforcement learning](https://arxiv.org/abs/2512.12046) was presented at **ICLR 2026**.
+**April 2026** — Our work on Eikonal-constrained hierarchical quasimetric reinforcement learning was presented at **ICLR 2026**.
 
 [**More news →**](/news/)
 
