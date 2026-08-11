@@ -11,13 +11,8 @@ I am an Assistant Professor in the [**Department of Industrial and Management Sy
 
 Prior to joining USF, I was a Postdoctoral Research Associate in the Department of Computer Science at Purdue University. I received my Ph.D. in Systems Engineering from Boston University, my M.Sc. in Systems and Control from Delft University of Technology (TU Delft), and my B.Sc. in Automation Engineering through a joint program between Tongji University and the University of Bologna.
 
-My research lies at the intersection of **Reinforcement Learning, Control Theory, Deep Learning, Robotics, and Formal Methods**. I am particularly interested in developing learning-enabled autonomous systems that are **data-efficient, safe, and grounded in physical and control-theoretic principles**.
+My research lies at the intersection of **Reinforcement Learning, Control Theory and Robotics**. I am particularly interested in developing learning-enabled autonomous systems that are **data-efficient, safe, and grounded in physical and control-theoretic principles**.
 
----
-
-<div style="text-align:center; margin: 1.5rem 0 1rem 0;">
-  <img src="/images/lea-logo.png" alt="Learning-enabled Autonomy Lab logo" style="max-width:330px; width:75%; height:auto;">
-</div>
 
 ## Learning-enabled Autonomy Lab
 
@@ -29,6 +24,10 @@ The **LEA Lab** develops learning-enabled autonomous systems at the intersection
 
 ### Physics-informed Reinforcement Learning
 
+- **Physics-informed Goal-Conditioned Reinforcement Learning under Hybrid Contact Dynamics**  
+  Vittorio Giammarino, Anastasios Manganaris, and Ahmed H. Qureshi. *Preprint, 2026*.  
+  [Paper](https://arxiv.org/abs/2605.30503)
+
 - **Goal Reaching with Eikonal-Constrained Hierarchical Quasimetric Reinforcement Learning**  
   Vittorio Giammarino and Ahmed H. Qureshi. *ICLR 2026*.  
   [Paper](https://arxiv.org/abs/2512.12046)
@@ -36,10 +35,6 @@ The **LEA Lab** develops learning-enabled autonomous systems at the intersection
 - **Physics-informed Value Learner for Offline Goal-Conditioned Reinforcement Learning**  
   Vittorio Giammarino, Ruiqi Ni, and Ahmed H. Qureshi. *NeurIPS 2025*.  
   [Paper](https://arxiv.org/abs/2509.06782)
-
-- **Physics-informed Goal-Conditioned Reinforcement Learning under Hybrid Contact Dynamics**  
-  Vittorio Giammarino, Anastasios Manganaris, and Ahmed H. Qureshi. *Preprint, 2026*.  
-  [Paper](https://arxiv.org/abs/2605.30503)
 
 ### Formal Methods for Policy Learning
 
@@ -51,7 +46,7 @@ The **LEA Lab** develops learning-enabled autonomous systems at the intersection
   Anastasios Manganaris, Vittorio Giammarino, Ahmed H. Qureshi, and Suresh Jagannathan. *Transactions on Machine Learning Research, 2026*.  
   [Paper](https://arxiv.org/abs/2602.06971)
 
-### Imitation Learning from Videos
+### Visual Imitation and Inverse RL
 
 - **Beyond Domain Randomization: Event-Inspired Perception for Visually Robust Adversarial Imitation from Videos**  
   Andrea Ramazzina, Vittorio Giammarino, Matteo El-Hariry, and Mario Bijelic. *ICRA 2026*.  
@@ -83,11 +78,11 @@ The **LEA Lab** develops learning-enabled autonomous systems at the intersection
 
 **August 2026** — I joined the University of South Florida as an Assistant Professor and launched the **Learning-enabled Autonomy (LEA) Lab**.
 
-**May 2026** — Our work on event-inspired perception for visually robust imitation learning from videos will be presented at **ICRA 2026**.
+**May 2026** — Our work on [event-inspired perception for visually robust imitation learning from videos](https://arxiv.org/abs/2505.18899) was presented at **ICRA 2026**.
 
-**April 2026** — Our workshop, **Hybrid Architectures for Embodied Autonomy: Bridging Learning, Planning, and Control**, was accepted to **IROS 2026**.
+**April 2026** — Our workshop, [**Hybrid Architectures for Embodied Autonomy: Bridging Learning, Planning, and Control**](https://sites.google.com/bu.edu/hybridarchforautonomy), was accepted to **IROS 2026**.
 
-**April 2026** — Our work on Eikonal-constrained hierarchical quasimetric reinforcement learning was presented at **ICLR 2026**.
+**April 2026** — Our work on [Eikonal-constrained hierarchical quasimetric reinforcement learning](https://arxiv.org/abs/2512.12046) was presented at **ICLR 2026**.
 
 [**More news →**](/news/)
 
