@@ -11,12 +11,11 @@ I am an Assistant Professor in the [**Department of Industrial and Management Sy
 
 Prior to joining USF, I was a Postdoctoral Research Associate in the Department of Computer Science at Purdue University. I received my Ph.D. in Systems Engineering from Boston University, my M.Sc. in Systems and Control from Delft University of Technology (TU Delft), and my B.Sc. in Automation Engineering through a joint program between Tongji University and the University of Bologna.
 
-My research lies at the intersection of **Reinforcement Learning, Control Theory and Robotics**. I am particularly interested in developing learning-enabled autonomous systems that are **data-efficient, safe, and grounded in physical and control-theoretic principles**.
-
+My research focuses on **reinforcement learning and policy learning for sequential decision-making**. I am broadly interested in developing learning methods that enable intelligent systems to **make decisions efficiently, safely, and reliably**, with a particular interest in incorporating **physical structure, control-theoretic principles, and domain knowledge** when available.
 
 ## Learning-enabled Autonomy Lab
 
-The **LEA Lab** develops learning-enabled autonomous systems at the intersection of **machine learning, control theory, optimization, and robotics**. Our goal is to enable autonomous agents to **learn efficiently, reason about complex objectives, and operate safely and effectively in the physical world**.
+The **LEA Lab** develops learning-enabled methods for **autonomous and sequential decision-making**. Our research spans **reinforcement learning, control theory, optimization, formal methods, and robotics**, with the goal of developing intelligent systems that can **learn efficiently, reason about complex objectives, and make safe and effective decisions in the real world**.
 
 [**Learn more about our research →**](/research/) &nbsp;&nbsp; [**Meet the lab →**](/people/)
 
