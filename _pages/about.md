@@ -11,7 +11,7 @@ I am an Assistant Professor in the [**Department of Industrial and Management Sy
 
 Prior to joining USF, I was a Postdoctoral Research Associate in the Department of Computer Science at Purdue University. I received my Ph.D. in Systems Engineering from Boston University, my M.Sc. in Systems and Control from Delft University of Technology (TU Delft), and my B.Sc. in Automation Engineering through a joint program between Tongji University and the University of Bologna.
 
-My research focuses on **reinforcement learning and policy learning for sequential decision-making**. I am broadly interested in developing learning methods that enable intelligent systems to **make decisions efficiently, safely, and reliably**, with a particular interest in incorporating **physical structure, control-theoretic principles, and domain knowledge** when available.
+My research focuses on **reinforcement learning and policy learning for sequential decision-making**. I am broadly interested in developing learning methods that enable intelligent systems to **make decisions efficiently, safely, and reliably**, with a particular emphasis on incorporating **physical structure, control-theoretic principles, and domain knowledge** when available.
 
 ## Learning-enabled Autonomy Lab
 
@@ -55,13 +55,17 @@ The **LEA Lab** develops learning-enabled methods for **autonomous and sequentia
 
 ## News
 
-**August 2026** — I joined the University of South Florida as an Assistant Professor and launched the **Learning-enabled Autonomy (LEA) Lab**.
+**August 2026** — I joined the University of South Florida as an Assistant Professor in the [Department of Industrial and Management Systems Engineering](https://www.usf.edu/engineering/imse/) and launched the **Learning-enabled Autonomy (LEA) Lab**.
 
-**May 2026** — Our work on event-inspired perception for visually robust imitation learning from videos was presented at **ICRA 2026**.
+**June 2026** — Our paper [**“Provably Efficient Off-Policy Adversarial Imitation Learning with Convergence Guarantees”**](https://openreview.net/forum?id=OahvMeRgKP) was published in **TMLR**.
 
-**April 2026** — Our workshop, [**Hybrid Architectures for Embodied Autonomy: Bridging Learning, Planning, and Control**](https://sites.google.com/bu.edu/hybridarchforautonomy), was accepted to **IROS 2026**.
+**May 2026** — My research was featured by Boston University Engineering: [**“Building Smarter, Safer AI: Vittorio Giammarino’s Research Journey”**](https://www.bu.edu/eng/2026/05/14/building-smarter-safer-ai-vittorio-giammarinos-research-journey/).
 
-**April 2026** — Our work on Eikonal-constrained hierarchical quasimetric reinforcement learning was presented at **ICLR 2026**.
+**May 2026** — Our paper [**“Beyond Domain Randomization: Event-Inspired Perception for Visually Robust Adversarial Imitation from Videos”**](https://arxiv.org/abs/2505.18899) was presented at **ICRA 2026**.
+
+**April 2026** — Our workshop [**“Hybrid Architectures for Embodied Autonomy: Bridging Learning, Planning, and Control”**](https://sites.google.com/bu.edu/hybridarchforautonomy) was accepted to **IROS 2026**.
+
+**April 2026** — Our paper [**“Goal Reaching with Eikonal-Constrained Hierarchical Quasimetric Reinforcement Learning”**](https://arxiv.org/abs/2512.12046) was presented at **ICLR 2026**.
 
 [**More news →**](/news/)
 
@@ -69,10 +73,12 @@ The **LEA Lab** develops learning-enabled methods for **autonomous and sequentia
 
 ### Prospective Ph.D. Students
 
-I am recruiting **2–3 Ph.D. students** to join the LEA Lab, with anticipated start dates between **Spring and Fall 2027**. Students with experience, curiosity, and motivation to work at the intersection of **Reinforcement Learning, Control Theory, Optimization, and Robotics** are strongly encouraged to apply.
+I am recruiting **2–3 Ph.D. students** to join the LEA Lab, with anticipated start dates between **Spring and Fall 2027**. I am looking for motivated and curious students interested in working at the intersection of **Reinforcement Learning, Control Theory, Optimization, and Robotics**. Students with relevant experience are especially encouraged to apply. Feel free to contact me for more information.
 
 ### Current USF Students
 
-If you are a graduate or undergraduate student already at USF and are interested in working with me, feel free to reach out. I am particularly interested in working with students who are excited about **high-risk, high-reward projects** and motivated to pursue **innovative and exploratory research**.
+**Admitted USF PhD Students**: If you have already been admitted and are looking for an advisor, please email me directly. I am able to directly advise students in the IMSE department and can co-advise students in other departments. 
 
-For inquiries, contact me at **vittoriog@usf.edu**.
+**Masters/Undergraduate students: If you are interested in working with me, please send me an email with your CV and a brief description of your interests, and include [Prospective Masters/Undergraduate Student] in the subject respectively. I am particularly interested in working with students who are excited about **high-risk, high-reward projects** in AI for physical systems, and who are eager to learn and contribute to our research projects.
+
+For any other inquiries, contact me at **vittoriog@usf.edu**.
