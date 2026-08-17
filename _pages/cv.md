@@ -9,17 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-[**Download CV (PDF)**](/files/CV_Vittorio_Giammarino.pdf)
+[**Download CV (PDF)**](/files/CV_June_26_Vittorio_Giammarino.pdf)
 
 # Academic Appointments
 
 **Assistant Professor**
-[University of South Florida](https://www.usf.edu/engineering/imse/), Department of Industrial and Management Systems Engineering
-2026–Present
+[University of South Florida](https://www.usf.edu/engineering/imse/), Department of Industrial and Management Systems Engineering, 2026–Present
 
 **Postdoctoral Research Associate**
-[Purdue University](https://www.cs.purdue.edu/), Department of Computer Science
-2024–2026
+[Purdue University](https://www.cs.purdue.edu/), Department of Computer Science, 2024–2026
 
 # Education
 
