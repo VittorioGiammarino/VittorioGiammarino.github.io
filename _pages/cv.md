@@ -13,48 +13,38 @@ redirect_from:
 
 # Academic Appointments
 
-* **Assistant Professor**, University of South Florida, 2026–Present
-  Department of Industrial and Management Systems Engineering
+**Assistant Professor**
+[University of South Florida](https://www.usf.edu/engineering/imse/), Department of Industrial and Management Systems Engineering
+2026–Present
 
-* **Postdoctoral Research Associate**, Purdue University, 2024–2026
-  Department of Computer Science
+**Postdoctoral Research Associate**
+[Purdue University](https://www.cs.purdue.edu/), Department of Computer Science
+2024–2026
 
 # Education
 
-* **Ph.D. in Systems Engineering**, Boston University, 2024
-  Thesis: [*On the Use of Expert Data to Imitate Behavior and Accelerate Reinforcement Learning*](https://www.proquest.com/docview/3106246471/abstract/951F23AD24CE4B85PQ/1?accountid=14745&sourcetype=Dissertations%20&%20Theses)
+**Ph.D. in Systems Engineering**, Boston University, 2024
+Thesis: [*On the Use of Expert Data to Imitate Behavior and Accelerate Reinforcement Learning*](https://www.proquest.com/docview/3106246471/abstract/951F23AD24CE4B85PQ/1?accountid=14745&sourcetype=Dissertations%20&%20Theses)
 
-* **M.Sc. in Systems and Control**, TU Delft, 2019
+**M.Sc. in Systems and Control**, TU Delft, 2019
 
-* **B.Sc. in Automation Engineering**, University of Bologna & Tongji University, 2017
+**B.Sc. in Automation Engineering**, University of Bologna & Tongji University, 2017
 
 # Research Interests
 
-* Reinforcement Learning and Sequential Decision-Making
-* Control Theory and Optimization
-* Robotics and Embodied Autonomy
-* Formal Methods for Policy Learning
+Reinforcement Learning · Sequential Decision-Making · Control Theory · Optimization · Robotics · Formal Methods
 
 # Publications
 
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
-# Talks
-
-<ul>{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
+See my [**Publications**](/publications/) page for a complete list.
 
 # Teaching
 
-<ul>{% for post in site.teaching reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
+See my [**Teaching**](/teaching/) page for courses and teaching activities.
 
 # Service
 
-* Organizer, **IROS 2026 Workshop on Hybrid Architectures for Embodied Autonomy**
-* Reviewer for major journals and conferences in robotics, machine learning, and control
+Organizer, **IROS 2026 Workshop on Hybrid Architectures for Embodied Autonomy**
+
+Reviewer for major journals and conferences in robotics, machine learning, and control.
 
