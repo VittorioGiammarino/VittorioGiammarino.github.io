@@ -79,6 +79,6 @@ I am recruiting **2–3 Ph.D. students** to join the LEA Lab, with anticipated s
 
 **Admitted USF PhD Students**: If you have already been admitted and are looking for an advisor, please email me directly. I am able to directly advise students in the IMSE department and can co-advise students in other departments. 
 
-**Masters/Undergraduate students: If you are interested in working with me, please send me an email with your CV and a brief description of your interests, and include [Prospective Masters/Undergraduate Student] in the subject respectively. I am particularly interested in working with students who are excited about **high-risk, high-reward projects** in AI for physical systems, and who are eager to learn and contribute to our research projects.
+**Masters/Undergraduate students**: If you are interested in working with me, please send me an email with your CV and a brief description of your interests, and include [Prospective Masters/Undergraduate Student] in the subject respectively. I am particularly interested in working with students who are excited about **high-risk, high-reward projects** in AI for physical systems, and who are eager to learn and contribute to our research projects.
 
 For any other inquiries, contact me at **vittoriog@usf.edu**.
